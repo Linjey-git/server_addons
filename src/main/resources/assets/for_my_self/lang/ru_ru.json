@@ -1,0 +1,10 @@
+{
+  "item.for_my_self.orb_of_temporary_flight": "Сфера Временного Полёта",
+  "item.for_my_self.orb_of_temporary_flight.tooltip": "Наделяет игрока полётом на 5 минуты",
+  "item.for_my_self.bibliolith_of_experience": "Библиолит Опыта",
+  "item.for_my_self.bibliolith_of_experience.tooltip": "Насыщает Игрока опытом",
+  "effect.for_my_self.flight": "Полёт",
+  "effect.for_my_self.exp": "Насыщенние Опытом",
+
+  "itemGroup.for_my_self.general": "Общее"
+}

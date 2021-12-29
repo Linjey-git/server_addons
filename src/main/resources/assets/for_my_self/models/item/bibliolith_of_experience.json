@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "for_my_self:item/bibliolith_of_experience"
+  }
+}

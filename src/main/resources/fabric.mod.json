@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "for_my_self",
+  "version": "${version}",
+  "name": "Server Addons",
+  "description": "none",
+  "authors": [
+    "Linjey",
+    "Fo4Ik"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/for_my_self/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "for_my_self.for_my_self.client.For_my_selfClient"
+    ],
+    "main": [
+      "for_my_self.for_my_self.For_my_selfMod"
+    ]
+  },
+  "mixins": [
+    "for_my_self.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "item.for_my_self.orb_of_temporary_flight": "Orb Of Temporary Flight",
+  "item.for_my_self.orb_of_temporary_flight.tooltip": "Provides the player with flight for 5 minutes",
+  "item.for_my_self.bibliolith_of_experience": "Bibliolith Of Experience",
+  "item.for_my_self.bibliolith_of_experience.tooltip": "Saturates the Player with experience",
+  "effect.for_my_self.flight": "Flight",
+  "effect.for_my_self.exp": "Exp Saturation",
+
+  "itemGroup.for_my_self.general": "General"
+}
